@@ -1,0 +1,11 @@
+Toda variável de texto é uma "string(str)" para o código
+
+Toda variável de número inteiro é uma "int"
+
+Toda variável de número decimal é considerado um "float"
+
+Toda variável de true e false é considerado um boolean(bool)
+
+print(): usado para texto
+
+print(f): É um print formatado, te dá mais liberdade, é mais fácil de organizar as variáveis
