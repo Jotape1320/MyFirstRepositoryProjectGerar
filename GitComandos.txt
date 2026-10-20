@@ -8,7 +8,7 @@ git add . : Ele adiciona todos os arquivos novos e modificações direto pro seu
 
 git add (nome do arquivo e a extensão(.txt e etc)): Ele adiciona somente o arquivo que você escolher.
 
-git commit -m (descrição da modificação/novo item): Ele informa oque foi modificado ou adicionado no seu repertório.
+git commit -m (descrição da modificação/novo item): Você informa oque foi modificado ou adicionado no seu repertório.
 
 git push: Ele adiciona os novos itens e comentários dentro do meu repositório na nuvem (GitHub).
 
